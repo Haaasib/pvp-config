@@ -1,1 +1,93 @@
 
+{
+  "title": "J0-FW",
+  "subtitle": "ELITE PVP",
+  "location": "LOS SANTOS",
+  "serverTag": "PVP",
+  
+  "youtube": {
+    "videoId": "KWAHGy_eee4",
+    "autoplay": true,
+    "loop": true,
+    "mute": true,
+    "controls": false
+  },
+  
+  "social": {
+    "discord": {
+      "url": "https://discord.gg/yourserver",
+      "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968756.png",
+      "enabled": true
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=XTp5jaRU3Ws",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "enabled": true
+    },
+    "website": {
+      "url": "https://yourwebsite.com",
+      "icon": "https://cdn-icons-png.flaticon.com/512/841/841364.png",
+      "enabled": false
+    },
+    "instagram": {
+      "url": "https://instagram.com/yourserver",
+      "icon": "https://cdn-icons-png.flaticon.com/512/174/174855.png",
+      "enabled": false
+    }
+  },
+  
+  "loadingMessages": {
+    "INIT_BEFORE_MAP_LOADED": [
+      "Initializing core systems...",
+      "Loading game engine...",
+      "Preparing combat framework...",
+      "Setting up player data..."
+    ],
+    "MAP": [
+      "Loading battle zones...",
+      "Initializing map data...",
+      "Loading world objects...",
+      "Setting up spawn points...",
+      "Loading vehicle data...",
+      "Preparing weapon systems..."
+    ],
+    "INIT_AFTER_MAP_LOADED": [
+      "Finalizing map setup...",
+      "Loading player models...",
+      "Initializing UI systems...",
+      "Setting up networking..."
+    ],
+    "INIT_SESSION": [
+      "Connecting to server...",
+      "Authenticating player...",
+      "Loading character data...",
+      "Preparing for combat..."
+    ]
+  },
+  
+  "colors": {
+    "primary": "#0066ff",
+    "secondary": "#ffffff",
+    "accent": "#0099ff",
+    "neon": "#00ccff",
+    "dark": "#000000"
+  },
+  
+  "ui": {
+    "showCombatIndicator": true,
+    "showVolumeControl": true,
+    "showTutorialText": true,
+    "combatIndicatorText": "COMBAT READY",
+    "tutorialText": "Press P to pause/resume video"
+  },
+  
+  "background": {
+    "image": "bg.png",
+    "overlayOpacity": 0.3,
+    "filter": {
+      "brightness": 0.5,
+      "contrast": 1.5,
+      "saturate": 1.3
+    }
+  }
+} 
