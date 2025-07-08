@@ -13,12 +13,12 @@
     },
     {
       "id": 2,
-      "name": "CAPTURE THE FLAG",
-      "description": "Strategic team battles across multiple capture points",
-      "maxPlayers": 24,
+      "name": "ROCKET LEAGUE",
+      "description": "Rocket League Game Arena",
+      "maxPlayers": 999,
       "status": "ACTIVE",
-      "map": "Military Base",
-      "available": false,
+      "map": "Rocket Arena",
+      "available": true,
       "difficulty": "HARD",
       "rewards": "VERY HIGH"
     },
