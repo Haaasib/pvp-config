@@ -29,7 +29,7 @@
       "maxPlayers": 100,
       "status": "ACTIVE",
       "map": "San Andreas",
-      "available": false,
+      "available": true,
       "difficulty": "EXTREME",
       "rewards": "MAXIMUM"
     },
