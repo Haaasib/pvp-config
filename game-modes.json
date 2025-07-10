@@ -12,6 +12,50 @@
       "rewards": "HIGH"
     },
     {
+      "id": 2,
+      "name": "ROCKET LEAGUE",
+      "description": "Rocket League Game Arena",
+      "maxPlayers": 999,
+      "status": "ACTIVE",
+      "map": "Rocket Arena",
+      "available": true,
+      "difficulty": "HARD",
+      "rewards": "VERY HIGH"
+    },
+    {
+      "id": 3,
+      "name": "BATTLE ROYALE",
+      "description": "Last player standing in a shrinking play zone",
+      "maxPlayers": 100,
+      "status": "ACTIVE",
+      "map": "San Andreas",
+      "available": false,
+      "difficulty": "EXTREME",
+      "rewards": "MAXIMUM"
+    },
+    {
+      "id": 4,
+      "name": "TEAM DEATHMATCH",
+      "description": "Team-based combat with class-based loadouts",
+      "maxPlayers": 48,
+      "status": "ACTIVE",
+      "map": "Downtown LS",
+      "available": false,
+      "difficulty": "MEDIUM",
+      "rewards": "HIGH"
+    },
+    {
+      "id": 5,
+      "name": "DOMINATION",
+      "description": "Control key strategic points across the map",
+      "maxPlayers": 36,
+      "status": "MAINTENANCE",
+      "map": "Vinewood Hills",
+      "available": false,
+      "difficulty": "HARD",
+      "rewards": "VERY HIGH"
+    },
+    {
       "id": 6,
       "name": "GUN GAME",
       "description": "Progressive weapon rotation with elimination rounds",
