@@ -6,7 +6,7 @@
       "description": "Classic PvP combat with multiple weapon loadouts",
       "maxPlayers": 32,
       "status": "ACTIVE",
-      "map": "Los Santos Arena",
+      "map": "Beach Park Arena",
       "available": true,
       "difficulty": "MEDIUM",
       "rewards": "HIGH"
@@ -61,7 +61,7 @@
       "description": "Progressive weapon rotation with elimination rounds",
       "maxPlayers": 16,
       "status": "ACTIVE",
-      "map": "Underground Arena",
+      "map": "Legion Square Arena",
       "available": true,
       "difficulty": "EASY",
       "rewards": "MEDIUM"
