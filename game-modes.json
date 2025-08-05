@@ -18,7 +18,7 @@
       "maxPlayers": 999,
       "status": "ACTIVE",
       "map": "Rocket Arena",
-      "available": true,
+      "available": false,
       "difficulty": "HARD",
       "rewards": "MEDIUM"
     },
