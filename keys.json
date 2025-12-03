@@ -2,37 +2,37 @@
   {
     "name": "talha",
     "keyduration": 365,
-    "kick": true,
+    "kick": false,
     "hwid": ""
   },
   {
     "name": "hasib",
     "keyduration": 365,
-    "kick": true,
+    "kick": false,
     "hwid": ""
   },
   {
     "name": "madx",
     "keyduration": 365,
-    "kick": true,
+    "kick": false,
     "hwid": ""
   },
   {
     "name": "rafid",
     "keyduration": 365,
-    "kick": true,
+    "kick": false,
     "hwid": ""
   },
   {
     "name": "fahim",
     "keyduration": 365,
-    "kick": true,
+    "kick": false,
     "hwid": ""
   },
   {
     "name": "andro",
     "keyduration": 365,
-    "kick": true,
+    "kick": false,
     "hwid": ""
   }
 ]
