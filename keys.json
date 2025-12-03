@@ -30,6 +30,12 @@
     "hwid": ""
   },
   {
+    "name": "ganzam",
+    "keyduration": 365,
+    "kick": false,
+    "hwid": ""
+  },
+  {
     "name": "andro",
     "keyduration": 365,
     "kick": false,
