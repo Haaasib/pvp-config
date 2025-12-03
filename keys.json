@@ -12,6 +12,12 @@
     "hwid": ""
   },
   {
+    "name": "madx",
+    "keyduration": 365,
+    "kick": true,
+    "hwid": ""
+  },
+  {
     "name": "rafid",
     "keyduration": 365,
     "kick": true,
