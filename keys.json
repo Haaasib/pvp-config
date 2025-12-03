@@ -1,7 +1,32 @@
 [
-  { "licensekey": "talha", "keyduration": "365" },
-  { "licensekey": "hasib", "keyduration": "365" },
-  { "licensekey": "rafid", "keyduration": "365" },
-  { "licensekey": "fox", "keyduration": "365" },
-  { "licensekey": "andro", "keyduration": "365" }
+  {
+    "name": "talha",
+    "keyduration": 365,
+    "kick": true,
+    "hwid": ""
+  },
+  {
+    "name": "hasib",
+    "keyduration": 365,
+    "kick": true,
+    "hwid": ""
+  },
+  {
+    "name": "rafid",
+    "keyduration": 365,
+    "kick": true,
+    "hwid": ""
+  },
+  {
+    "name": "fahim",
+    "keyduration": 365,
+    "kick": true,
+    "hwid": ""
+  },
+  {
+    "name": "andro",
+    "keyduration": 365,
+    "kick": true,
+    "hwid": ""
+  }
 ]
