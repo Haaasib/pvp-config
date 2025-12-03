@@ -1,1 +1,7 @@
-
+[
+  { "licensekey": "talha", "keyduration": "365" },
+  { "licensekey": "hasib", "keyduration": "365" },
+  { "licensekey": "rafid", "keyduration": "365" },
+  { "licensekey": "fox", "keyduration": "365" },
+  { "licensekey": "andro", "keyduration": "365" }
+]
